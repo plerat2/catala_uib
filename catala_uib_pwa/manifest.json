@@ -1,0 +1,16 @@
+
+{
+    "name": "catala_uib",
+    "short_name": "catala_uib",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fff8dc",
+    "theme_color": "#8b0000",
+    "icons": [
+        {
+            "src": "054941e8e8.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

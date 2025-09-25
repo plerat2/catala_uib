@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8dc;
+    color: #8b0000;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #8b0000;
+    color: #fff8dc;
+    padding: 1em;
+    text-align: center;
+}
+.estadistiques {
+    padding: 1em;
+}
+.barra {
+    background-color: #8b0000;
+    color: white;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    width: var(--percent);
+}
+.imatges {
+    text-align: center;
+    padding: 1em;
+}
+.imatges img {
+    max-width: 100px;
+    margin: 0.5em;
+}
